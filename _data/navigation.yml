@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Eno River SP
+  url: /enoriver/
+  excerpt: "Species at Eno River State Park"
+  image:
+
+- title: Occoneechee SNA
+  url: /occoneechee/
+  excerpt: "Species at Occoneechee Mountain SNA"
+  image:
+
+- title: Taxonomy
+  url: /taxonomy/
+  excerpt: "Species classification and relationships"
+  image:
+
+- title: About
+  url: /about/
+  excerpt: "About this project"
+  image:
+
