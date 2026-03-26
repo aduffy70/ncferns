@@ -31,7 +31,7 @@ Historically, lycophytes were grouped with ferns under the informal term “fern
 
 # Who put this together?
 
-![Aaron surrounded by ferns](images/me_and_ferns1.jpg){: .image-left}
+![Aaron surrounded by ferns](/images/me_and_ferns1.jpg){: .image-left}
 My name is Aaron M. Duffy and I am a PhD-trained biologist with a background in evolutionary biology and science education. My research experience at Duke University and Utah State University has included studies of seed-free plants like ferns and mosses. I am fascinated by their cryptic gametophytes and alternating generations and I can frequently be found peering into rock crevices with a flashlight, looking for hidden ferns. My broader interests include plant diversity, systematics, speciation, and using hands-on inquiry activities to improve the way we teach science.
 
 # How can I contribute to this project?
