@@ -51,7 +51,7 @@ exclude:
   - Capfile
   - Gemfile
   - Gruntfile.js
-  - LICENSE
+  - LICENSE-skinny_bones_theme
   - README
   - Rakefile
   - config
@@ -62,3 +62,4 @@ exclude:
   - package.json
   - spec
   - tmp
+  - CNAME
