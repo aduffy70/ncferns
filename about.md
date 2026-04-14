@@ -7,7 +7,7 @@ image:
 share: false
 ---
 
-![NC Ferns logo](/images/NC_ferns_logo-400x256.png){: .image-left} This project began in 2019 as an effort to learn the fern flora of the state park near my home—Eno River State Park. After contacting park staff and learning that no comprehensive, consolidated checklist existed, I began compiling records from herbarium data, state park records, and iNaturalist field observations, while systematically searching for each reported species to verify its presence.
+![NC Ferns logo](/images/NC_ferns_logo-400x256.png){: .image-left} This project began in 2019 as an effort to learn the fern flora of the state park near my home—Eno River State Park. After contacting park staff and learning that no up-to-date, comprehensive, consolidated checklist existed, I began compiling records from herbarium data, state park records, and iNaturalist field observations, while systematically searching for each reported species to verify its presence.
 
 Over time the scope expanded to include Occoneechee Mountain State Natural Area, a nearby site with distinct geology and habitat structure. Together, these two areas provide a range of substrate, elevation, and moisture regimes, supporting different plant species. The long-term goal is to extend this effort to additional protected areas across North Carolina, building a set of comparable, site-specific inventories that document the regional diversity of seed-free vascular plants.
 
