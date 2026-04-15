@@ -19,8 +19,10 @@ Species records used to compile the checklists come from several sources:
 Each species entry indicates the sources supporting its occurrence within the park or preserve. Historical or unverified reports of additional species will be summarized separately.
 
 The site currently includes:
-  - Species checklists for Eno River State Park and Occoneechee Mountain State Natural Area
+  - Species checklists for:
+    - Eno River State Park
+    - Occoneechee Mountain State Natural Area
   - Background information on fern and lycophyte taxonomy and systematics
   - Information about the project and its sources
 
-The varied habitats of the Eno River corridor and the rocky slopes of Occoneechee Mountain support a diverse assemblage of fern species characteristic of the North Carolina Piedmont. This project aims to document that diversity and make the information easily accessible to visitors, naturalists, and anyone interested in the fern and lycophyte flora of these parks.
+The varied habitats of the river corridors, rolling hills, and rocky slopes of the North Carolina Piedmont support a diverse assemblage of fern species. This project aims to document that diversity and make the information easily accessible to visitors, naturalists, and anyone interested in the fern and lycophyte flora of this area.
