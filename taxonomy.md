@@ -121,4 +121,10 @@ These taxonomic classifications are summarized below.
 
 Systematics is a scientific field that studies the evolutionary relationships among organisms. Using evidence from morphology, genetics, and other biological data, scientists reconstruct patterns of common ancestry and evolutionary history, often represented as phylogenetic trees. Taxonomy and systematics are related: the classifications and names produced by taxonomy ideally reflect the evolutionary relationships inferred by systematic research.
 
-The evolutionary relationships among the fern and lycophyte species at the natural areas included in this project are summarized in the tree below.
+The evolutionary relationships among the fern and lycophyte species at the natural areas included in this project are summarized in the tree below. 
+
+<div class="responsive-wrap">
+<iframe src="https://drive.google.com/file/d/1Klk09vk13rl2h7GdMIgPfnlnBg9TQ9Uu/preview" width="480" height="640"></iframe>
+</div>
+
+Relationships are based on published phylogenies. Relative branch lengths are not meaningful.
